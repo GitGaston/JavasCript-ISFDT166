@@ -14,13 +14,13 @@ alert("Hola "+ nombre +"tu edad es "+ edad)*/
 /* Ejercicio 3 Realiza una aplicación que dados dos valores colocados en variables realice la suma de los 
 mismos y los muestre por pantalla.*/
 
-/*let num1=parseInt(prompt("Coloque un numero"));
+/*let num1=parseInt(prompt("Coloq
 let num2=parseInt(prompt("Coloque otro numero"));
 let suma=num1+num2
 alert("la suma es "+suma)*/
 
 
-/* Ejercicio 4 Realiza una calculadora con las operaciones básicas ESTAMOS HACIENDO CAGADAS CON GIT (suma, resta multiplicación y división). 
+/* Ejercicio 4 Realiza una calculadora con las operaciones básicas  CAGADAS CON GIT (suma, resta multiplicación y división). 
 /* hola Ejercicio 4 Realiza una calculadora con las operaciones básicas (suma, resta multiplicación y división). 
 Los valores para las operaciones deben estar almacenados en variables previamente.*/
 
