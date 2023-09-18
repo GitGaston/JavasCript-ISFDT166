@@ -20,7 +20,7 @@ let suma=num1+num2
 alert("la suma es "+suma)*/
 
 
-/* Ejercicio 4 Realiza una calculadora con las operaciones básicas (suma, resta multiplicación y división). 
+/* Ejercicio 4 Realiza una calculadora con las operaciones básicas ESTAMOS HACIENDO CAGADAS CON GIT (suma, resta multiplicación y división). 
 Los valores para las operaciones deben estar almacenados en variables previamente.*/
 
 /*let num1=3;
